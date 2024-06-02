@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EnctypedSharePreferenceDemo</string>
+    <string name="shared_prefs">PreferenceFile</string>
+    <string name="secret_shared_prefs">SecretPreferenceFile</string>
+</resources>
